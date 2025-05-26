@@ -123,7 +123,7 @@ For questions, feedback, or collaborations:
 
 **Amir Lima Oliveira**  
 📍 Vancouver, BC  
-✉️ [Insert your email or portfolio link here]
+✉️ https://www.linkedin.com/in/amirloliveira/
 
 ---
 
