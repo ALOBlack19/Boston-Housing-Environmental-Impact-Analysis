@@ -1,4 +1,4 @@
-# 🏘️ Boston Housing & Environmental Inequality Analysis
+# 🏘️ Boston Housing & Environmental Impact Analysis
 
 **Student:** Amir Lima Oliveira  
 **College:** Cornerstone International Community College of Canada (CICCC)  
